@@ -7,7 +7,7 @@
 def main():
     # This is the nested loop function
 
-    
+
     counter1 = 0
     counter2 = 0
     counter3 = 0
